@@ -1,0 +1,1 @@
+['Shakespeare, Wililam', 'Tolstoy, Leo', 'Dostoevsky, Fyodor', 'Dickens, Charles', 'Home', 'Tolkien, J.R.R.', 'Poe, Edgar Allan', 'Hugo, Victor', 'Twain, Mark', 'Orwell, George', 'Hemmingway, Ernest', "Alighieri, Dante', 'Joyce, James', 'Austen, Jane', 'Kafka, Franz']
