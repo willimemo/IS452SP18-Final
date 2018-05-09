@@ -1,4 +1,4 @@
-# IS452SP18-Final
+# IS452SP18-Final Megan Williams
 Final project for my IS452 class
 
 There are three Python files and three text files. the final versions start with a number 
